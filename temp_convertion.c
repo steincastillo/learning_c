@@ -1,3 +1,4 @@
+/* pre-processor directives */
 #include <stdio.h>
 
 #define INF -30
@@ -5,6 +6,7 @@
 
 float fahrenheit;
 
+/*Function declaration */
 float convertion (int c);
 
 int main()
